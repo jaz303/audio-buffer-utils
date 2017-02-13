@@ -1,4 +1,4 @@
-Utility functions for Audio Buffers.
+Utility functions for Audio Buffers. See [@audiojs/audio-buffer-utils](https://github.com/audiojs/audio-buffer-utils).
 
 
 ## Usage
